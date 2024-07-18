@@ -2,4 +2,35 @@ h1{
     color: aqua; font-size: 70px;
     
 }
+.Red{
+    color: brown;
+}
 
+.Green{
+    color: dodgerblue;
+}
+
+.Imagen1{
+    border: radius 10%; border: 11px solid green ;
+}
+
+.Imagen2{
+    border-radius: 40%; border: 9px solid yellow; ;
+}
+
+.Imagen3{
+    border-radius: 20%; border: 15px solid rebeccapurple;
+}
+.Parrafo1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+}
+.Parrafo2{
+    font-family: sans-serif;
+    color: blueviolet;
+}
+.Parrafo3{
+    font-family:serif;
+    font-size: 20px;
+    color: darkgreen;
+}
